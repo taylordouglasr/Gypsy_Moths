@@ -1,7 +1,7 @@
-# Gypsy_Moths
-This repository contains the code for data and animations of Gypsy Moth data from the Stop The Spread project. 
+# Lymantria
+This repository contains the code for data and animations of Lymantria data from the Stop The Spread project. 
 
-DRT was provided with a series of .csv files that contained the X coordinates, Y coordinates, and number of moths trapped for a given year. I don’t have those raw files uploaded here but can provide them upon request.
+DRT was provided with a series of .csv files that contained the X coordinates, Y coordinates, and number of moths trapped for a given year. Those raw files are not uploaded here but can provided them upon request.
 
 “GM data.py” is a script that combines all the files in that directory into a single file, “combined_csv.csv”.
 
